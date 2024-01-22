@@ -2,4 +2,4 @@
 <br>
 this is second repo
 <br>
-author rohit
+author rohit khatik(hitesh)
